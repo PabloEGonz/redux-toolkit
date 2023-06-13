@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+nav svg {
+  width: 40px;
+  color: var(--clr-white);
+}
